@@ -86,7 +86,7 @@ namespace DesafioDoBoss
             }
         }
         
-        public static void ExerciciosFacilEscolha()
+        public static void ExerciciosFacilEscolha() //linguiça de if e else
         {
             string escolha = Console.ReadLine();
             if (escolha == "0")
