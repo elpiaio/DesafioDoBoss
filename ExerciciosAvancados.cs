@@ -253,7 +253,7 @@ namespace DesafioDoBoss
             }
             catch (Exception ex) { Console.WriteLine(ex); }
         }
-        public static void Exercicio9() // Verifique se uma string contém apenas números.
+        public static void Exercicio9() // Verifique se uma string contém apenas números
         {
             try
             {
